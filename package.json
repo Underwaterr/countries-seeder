@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "download": "node --experimental-fetch download.js"
+  },
+  "dependencies": {
+    "mongoose": "^6.2.8"
+  }
+}
